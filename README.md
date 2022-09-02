@@ -14,7 +14,7 @@ My learning was focused on building a website from a pre-made layout while addin
 
 Optimizations
 
-To improve this project, I want to add queries to CSS to make it available on all devices. I also want to work on some interactivity with JavaScript.
+To improve this project, I want to add more animations with CSS and work on more interactivity with JavaScript.
 
 Lessons Learned:
 
